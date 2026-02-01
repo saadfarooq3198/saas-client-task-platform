@@ -141,7 +141,6 @@ Saad Farooq
 Laravel Developer | Backend Engineer
 
 GitHub: https://github.com/saadfarooq3198
-LinkedIn: (Add your profile link here)
 
 📜 License
 This project is open-source and available for learning, portfolio demonstration, and educational purposes.
